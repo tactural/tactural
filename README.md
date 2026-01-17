@@ -6,5 +6,5 @@
   <a href="https://rentry.co/rrur">rentry</a>    <a href="https://tactural.atabook.org/">ata</a>    <a href="https://lpis.straw.page/">straw</a>
 </p>
 <p align="center">
-<a href="https://github.com/tactural"><img alt="POKEMONS!" src="https://img.shields.io/badge/POKEMON(S)!-87-285ab3.svg"></a>
+<a href="https://github.com/tactural"><img alt="POKEMONS!" src="https://img.shields.io/badge/POKEMON(S)!-89-285ab3.svg"></a>
 </p>
