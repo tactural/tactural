@@ -8,6 +8,8 @@
 𓎢𓎡𓎢𓎡𓎢𓎡𓎢𓎡𓎢𓎡𓎢𓎡𓎢𓎡𓎢𓎡
 <p align="center">
 " I just wanna cause a little e̶ntorpy "
+<p align="center">
+[ata](https://nkemon.atabook.org) [rentry](https://rentry.co/nkemonm)
   <p align="center">
 <a href="https://github.com/HARM0NIAA"><img alt="pokwmona" src="https://img.shields.io/badge/(:3っ)っ-103-98C90E.svg"></a>
 </p>
