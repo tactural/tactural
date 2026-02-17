@@ -1,3 +1,5 @@
+-> View on a bigger screen (suggested)
+
 <p align="center">
   <img width="1724" height="2081" alt="Untitled32_20260216223007" src="https://github.com/user-attachments/assets/17877886-f5ed-44f5-a87c-331266414f76" />
 
