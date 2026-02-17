@@ -7,5 +7,4 @@
 
 
   <p align="center">
-<a href="https://github.com/HARM0NIAA"><img alt="pokwmona" src="https://img.shields.io/badge/(:3っ)っ-FEEE9B
-
+<a href="https://github.com/HARM0NIAA"><img alt="pokwmona" src="https://img.shields.io/badge/(:3っ)っ-103-FEEE9B.svg"></a>
